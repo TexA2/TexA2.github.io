@@ -135,7 +135,12 @@ nav{
 }
 
 
+.skill{
+	background: url(../img/картинка_фона.png) center/cover no-repeat;
+}
+
 .ladtope {
+	margin-left: 8%;
 	float: left;
 
 }
@@ -153,6 +158,23 @@ nav{
 	float: left;
 }
 
-.skill{
-	background: url(../img/картинка_фона.png) center/cover no-repeat;
+.ladtopeimg{
+	margin-left: 68px;
 }
+
+.TextType2{
+	margin-left: 50px;
+	color: #cf7600;
+	font-size: 18px;
+
+}
+
+.TextType3{
+	border: 0px solid #fff;
+	text-align: center;
+	font-size: 16px;
+	width: 200px;
+}
+
+
+
